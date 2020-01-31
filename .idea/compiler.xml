@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_08-spring-boot-view-jsp" />
+        <module name="_10-spring-boot-view-thymeleaf" />
+        <module name="_17-spring-boot-exception4" />
+        <module name="_20-spring-boot-springloader" />
+        <module name="_23-spring-boot-ehcache" />
+        <module name="_14-spring-boot-exception1" />
+        <module name="_21-spring-boot-devtools" />
+        <module name="_02-spring-boot-servlet" />
+        <module name="_01-spring-boot-hello" />
+        <module name="_06-spring-boot-resources2" />
+        <module name="_04-spring-boot-listener" />
+        <module name="_18-spring-boot-exception5" />
+        <module name="_24-spring-boot-redis" />
+        <module name="_15-spring-boot-exception2" />
+        <module name="_13-spring-boot-validate" />
+        <module name="_27-spring-boot-quartz" />
+        <module name="_26-quartz-demo" />
+        <module name="_07-spring-boot-fileupload" />
+        <module name="_24-spring-boot-redis-my-test" />
+        <module name="_22-spring-boot-jpa" />
+        <module name="_16-spring-boot-exception3" />
+        <module name="_03-spring-boot-filter" />
+        <module name="_09-spring-boot-view-freemarker" />
+        <module name="_25-spring-boot-scheduled" />
+        <module name="_19-spring-boot-test" />
+        <module name="_05-spring-boot-resources1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="_01-spring-boot-hello" options="-parameters" />
+      <module name="_02-spring-boot-servlet" options="-parameters" />
+      <module name="_03-spring-boot-filter" options="-parameters" />
+      <module name="_04-spring-boot-listener" options="-parameters" />
+      <module name="_05-spring-boot-resources1" options="-parameters" />
+      <module name="_06-spring-boot-resources2" options="-parameters" />
+      <module name="_07-spring-boot-fileupload" options="-parameters" />
+      <module name="_08-spring-boot-view-jsp" options="-parameters" />
+      <module name="_09-spring-boot-view-freemarker" options="-parameters" />
+      <module name="_10-spring-boot-view-thymeleaf" options="-parameters" />
+      <module name="_12-spring-boot-springmvc-mybatis" options="-parameters" />
+      <module name="_13-spring-boot-validate" options="-parameters" />
+      <module name="_14-spring-boot-exception1" options="-parameters" />
+      <module name="_15-spring-boot-exception2" options="-parameters" />
+      <module name="_16-spring-boot-exception3" options="-parameters" />
+      <module name="_17-spring-boot-exception4" options="-parameters" />
+      <module name="_18-spring-boot-exception5" options="-parameters" />
+      <module name="_19-spring-boot-test" options="-parameters" />
+      <module name="_20-spring-boot-springloader" options="-parameters" />
+      <module name="_21-spring-boot-devtools" options="-parameters" />
+      <module name="_22-spring-boot-jpa" options="-parameters" />
+      <module name="_23-spring-boot-ehcache" options="-parameters" />
+      <module name="_24-spring-boot-redis" options="-parameters" />
+      <module name="_24-spring-boot-redis-my-test" options="-parameters" />
+      <module name="_25-spring-boot-scheduled" options="-parameters" />
+      <module name="_26-quartz-demo" options="-parameters" />
+      <module name="_27-spring-boot-quartz" options="-parameters" />
+    </option>
+  </component>
+</project>

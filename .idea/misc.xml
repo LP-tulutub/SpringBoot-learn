@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/_06-spring-boot-resources2" />
+    <file type="web" url="file://$PROJECT_DIR$/_08-spring-boot-view-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/_09-spring-boot-view-freemarker" />
+    <file type="web" url="file://$PROJECT_DIR$/_10-spring-boot-view-thymeleaf" />
+    <file type="web" url="file://$PROJECT_DIR$/_12-spring-boot-springmvc-mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/_13-spring-boot-validate" />
+    <file type="web" url="file://$PROJECT_DIR$/_14-spring-boot-exception1" />
+    <file type="web" url="file://$PROJECT_DIR$/_15-spring-boot-exception2" />
+    <file type="web" url="file://$PROJECT_DIR$/_16-spring-boot-exception3" />
+    <file type="web" url="file://$PROJECT_DIR$/_17-spring-boot-exception4" />
+    <file type="web" url="file://$PROJECT_DIR$/_18-spring-boot-exception5" />
+    <file type="web" url="file://$PROJECT_DIR$/_19-spring-boot-test" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/_12-spring-boot-springmvc-mybatis/13-spring-boot-validate/pom.xml" />
+        <option value="$PROJECT_DIR$/_24-spring-boot-redis/24-spring-boot-redis-my-test/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
