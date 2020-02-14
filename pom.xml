@@ -36,6 +36,8 @@
     <module>_25-spring-boot-scheduled</module>
     <module>_26-quartz-demo</module>
     <module>_27-spring-boot-quartz</module>
+    <module>_28-spring-boot-dubbo-zookeeper-provider</module>
+    <module>_29-spring-boot-dubbo-zookeeper-consumer</module>
   </modules>
 
   <name>Maven</name>
@@ -85,6 +87,7 @@
     <spring-tx-version>5.2.2.RELEASE</spring-tx-version>
     <quartz-version>2.3.2</quartz-version>
   </properties>
+
 
   <dependencyManagement>
     <dependencies>
