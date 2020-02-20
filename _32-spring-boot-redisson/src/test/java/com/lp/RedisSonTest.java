@@ -14,8 +14,6 @@ import javax.annotation.Resource;
 
 /**
  * Spring Data Redis测试
- *
- *
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest(classes=App.class)
