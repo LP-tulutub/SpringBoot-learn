@@ -40,6 +40,7 @@
     <module>_29-spring-boot-dubbo-zookeeper-consumer</module>
     <module>_30-spring-boot-elasticsearch-jest</module>
     <module>_31-spring-boot-elasticsearch-data</module>
+      <module>_32-spring-boot-redisson</module>
   </modules>
 
   <name>Maven</name>

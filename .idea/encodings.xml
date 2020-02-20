@@ -33,5 +33,6 @@
     <file url="file://$PROJECT_DIR$/_29-spring-boot-dubbo-zookeeper-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_30-spring-boot-elasticsearch-jest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_31-spring-boot-elasticsearch-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_32-spring-boot-redisson" charset="UTF-8" />
   </component>
 </project>
