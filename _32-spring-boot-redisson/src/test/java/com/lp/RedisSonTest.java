@@ -42,6 +42,24 @@ public class RedisSonTest {
 
 	}
 
+	@Test
+	public void test2() throws InterruptedException {
+		//创建锁
+		RLock helloLock = redissonClient.getLock("hello");
+		System.out.println("完成创建锁2");
+		//加锁
+		helloLock.lock();
+		try {
+			System.out.println("进入锁2");
+			Thread.sleep(1000 * 40);
+		} finally {
+			//释放锁
+			helloLock.unlock();
+			System.out.println("退出锁2");
+		}
+
+	}
+
 	/**
 	 * 添加一个字符串
 	 */
@@ -57,8 +75,6 @@ public class RedisSonTest {
 	public void testGet(){
 		String value = (String)this.redisTemplate.opsForValue().get("springBootKey");
 		System.out.println(value);
-		String value2 = (String)this.redisTemplate.opsForValue().get("a");
-		System.out.println(value2);
 	}
 
 
