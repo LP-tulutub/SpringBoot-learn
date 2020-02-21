@@ -39,7 +39,6 @@ public class RedisSonTest {
 			helloLock.unlock();
 			System.out.println("退出锁");
 		}
-
 	}
 
 	@Test
@@ -57,8 +56,24 @@ public class RedisSonTest {
 			helloLock.unlock();
 			System.out.println("退出锁2");
 		}
-
 	}
+
+    @Test
+    public void test3() throws InterruptedException {
+        //创建锁
+        RLock helloLock = redissonClient.getLock("hello3");
+        System.out.println("完成创建锁3");
+        //加锁
+        helloLock.lock();
+        try {
+            System.out.println("进入锁3");
+            Thread.sleep(1000 * 40);
+        } finally {
+            //释放锁
+            helloLock.unlock();
+            System.out.println("退出锁3");
+        }
+    }
 
 	/**
 	 * 添加一个字符串

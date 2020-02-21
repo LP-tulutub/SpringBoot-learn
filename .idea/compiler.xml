@@ -7,10 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_08-spring-boot-view-jsp" />
-        <module name="_14-spring-boot-exception1" />
+        <module name="_06-spring-boot-resources2" />
         <module name="_24-spring-boot-redis" />
         <module name="_19-spring-boot-test" />
-        <module name="_07-spring-boot-fileupload" />
+        <module name="_20-spring-boot-springloader" />
+        <module name="_10-spring-boot-view-thymeleaf" />
         <module name="_17-spring-boot-exception4" />
         <module name="_28-spring-boot-dubbo-zookeeper-provider" />
         <module name="_05-spring-boot-resources1" />
@@ -18,25 +19,24 @@
         <module name="_26-quartz-demo" />
         <module name="_16-spring-boot-exception3" />
         <module name="_09-spring-boot-view-freemarker" />
-        <module name="_30-spring-boot-elasticsearch-jest" />
         <module name="_22-spring-boot-jpa" />
-        <module name="_20-spring-boot-springloader" />
+        <module name="_07-spring-boot-fileupload" />
         <module name="_02-spring-boot-servlet" />
-        <module name="_04-spring-boot-listener" />
+        <module name="_30-spring-boot-elasticsearch-jest" />
         <module name="_13-spring-boot-validate" />
+        <module name="_04-spring-boot-listener" />
         <module name="_24-spring-boot-redis-my-test" />
         <module name="_27-spring-boot-quartz" />
         <module name="_21-spring-boot-devtools" />
         <module name="_15-spring-boot-exception2" />
         <module name="_31-spring-boot-elasticsearch-data" />
-        <module name="_06-spring-boot-resources2" />
         <module name="_23-spring-boot-ehcache" />
         <module name="_01-spring-boot-hello" />
         <module name="_18-spring-boot-exception5" />
         <module name="_32-spring-boot-redisson" />
         <module name="_25-spring-boot-scheduled" />
         <module name="_03-spring-boot-filter" />
-        <module name="_10-spring-boot-view-thymeleaf" />
+        <module name="_14-spring-boot-exception1" />
       </profile>
     </annotationProcessing>
   </component>
