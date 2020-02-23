@@ -154,11 +154,11 @@ public class UsersRepositoryTest {
 		//Sort.Order order = new Sort.Order(Sort.Direction.DESC,"id");
 		//Sort对象封装了排序规则
 		//Sort sort = new Sort(order);
-		Sort sort = new Sort(Sort.Direction.DESC, "id");
+		/*Sort sort = new Sort(Sort.Direction.DESC, "id");
 		List<Users> list = (List<Users>)this.usersRepositoryPagingAndSorting.findAll(sort);
 		for (Users users : list) {
 			System.out.println(users);
-		}
+		}*/
 	}
 
 	@Test
@@ -200,11 +200,12 @@ public class UsersRepositoryTest {
 		//Sort.Order order = new Sort.Order(Sort.Direction.DESC,"id");
 		//Sort对象封装了排序规则
 		//Sort sort = new Sort(order);
-		Sort sort = new Sort(Sort.Direction.ASC, "name","id");
+
+		/*Sort sort = new Sort(Sort.Direction.ASC, "name","id");
 		List<Users> list = this.usersRepository.findAll(sort);
 		for (Users users : list) {
 			System.out.println(users);
-		}
+		}*/
 
 	}
 
