@@ -36,6 +36,7 @@
         <module name="_32-spring-boot-redisson" />
         <module name="_25-spring-boot-scheduled" />
         <module name="_03-spring-boot-filter" />
+        <module name="_33-spring-boot-aop" />
         <module name="_10-spring-boot-view-thymeleaf" />
       </profile>
     </annotationProcessing>
@@ -74,6 +75,7 @@
       <module name="_30-spring-boot-elasticsearch-jest" options="-parameters" />
       <module name="_31-spring-boot-elasticsearch-data" options="-parameters" />
       <module name="_32-spring-boot-redisson" options="-parameters" />
+      <module name="_33-spring-boot-aop" options="-parameters" />
     </option>
   </component>
 </project>
