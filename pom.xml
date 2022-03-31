@@ -69,7 +69,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <release-version>2.2.2.RELEASE</release-version>
-    <spring-boot-starter-web-version>2.2.2.RELEASE</spring-boot-starter-web-version>
+    <spring-boot-starter-web-version>2.5.12</spring-boot-starter-web-version>
     <spring-boot-maven-plugin-version>2.2.2.RELEASE</spring-boot-maven-plugin-version>
     <pring-boot-starter-freemarker-version>2.2.2.RELEASE</pring-boot-starter-freemarker-version>
     <spring-boot-starter-thymeleaf-version>2.2.2.RELEASE</spring-boot-starter-thymeleaf-version>
